@@ -38,7 +38,7 @@
     "archiver": "^0.14.4",
     "commander": "^2.8.1",
     "fstream": "^1.0.7",
-    "jsforce": "^1.5.0",
+    "jsforce": "git+https://git@github.com/jesperfj/jsforce.git#sdx",
     "readable-stream": "^2.0.2",
     "unzip": "^0.1.11",
     "xml2js": "^0.4.10"
